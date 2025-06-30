@@ -38,7 +38,8 @@ Tabelas principais utilizadas:
 - `DimSalesTerritory`  
 - `DimGeography`  
 - `FactInternetSales`  
-
+### Schema
+![Schema](Schema.jpg)
 ---
 
 ## 🎨 Design do Dashboard
