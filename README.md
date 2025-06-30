@@ -4,8 +4,18 @@ Este projeto apresenta um dashboard interativo desenvolvido no Power BI, focado 
 
 O relatório foi projetado com **modo claro e escuro** para melhorar a experiência do usuário, proporcionando conforto visual e acessibilidade.
 
+
 ---
 
+## 📸 Screenshots
+
+### Light Mode  
+![Dashboard Light Mode](Dash-light-mode.jpg)
+
+### Dark Mode  
+![Dashboard Dark Mode](Dash-dark-mode.jpg)
+
+---
 ## 🎯 Objetivos
 
 - Analisar a performance dos clientes com base nos dados de vendas  
@@ -48,16 +58,6 @@ Tabelas principais utilizadas:
 - Visual limpo e organizado  
 - Títulos em formato de perguntas para facilitar a compreensão  
 - Navegação intuitiva focada no usuário final  
-
----
-
-## 📸 Screenshots
-
-### Light Mode  
-![Dashboard Light Mode](Dash-light-mode.jpg)
-
-### Dark Mode  
-![Dashboard Dark Mode](Dash-dark-mode.jpg)
 
 ---
 
