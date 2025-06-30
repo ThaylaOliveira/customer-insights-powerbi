@@ -52,8 +52,11 @@ Tabelas principais utilizadas:
 
 ## 📸 Screenshots
 
-Dash-dark-mode.jpg
-Dash-light-mode.jpg
+### Light Mode  
+![Dashboard Light Mode](Dash-light-mode.jpg)
+
+### Dark Mode  
+![Dashboard Dark Mode](Dash-dark-mode.jpg)
 
 ---
 
