@@ -4,6 +4,7 @@ Este projeto apresenta um dashboard interativo desenvolvido no Power BI, focado 
 
 O relatório foi projetado com **modo claro e escuro** para melhorar a experiência do usuário, proporcionando conforto visual e acessibilidade.
 
+### Acesso ao dashboard [clicando aqui!](https://app.powerbi.com/view?r=eyJrIjoiZDI4YTA2ODgtNWI1Ni00OWViLTk4ZmEtODBkMGNlZGI4NzAwIiwidCI6IjcxNTU4ZjkxLWU4ZDAtNDcyYS1hM2Q2LTljOWQ2Y2RkZDU1YSJ9)
 
 ---
 
